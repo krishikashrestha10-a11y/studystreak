@@ -1,0 +1,6 @@
+{
+  "name": "StudyStreak",
+  "description": "Educational platform for chapter-wise study notes, streak tracking, and AI-powered quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
